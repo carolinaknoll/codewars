@@ -13,5 +13,3 @@ This repository includes my solutions to all of my completed katas.
 ## Exporter
 
 You can export your kata solutions as well! Just clone brunolm's [codewars-exporter](https://github.com/brunolm/codewars-exporter) and follow the instructions.
-
-If you use GitHub to log in to CodeWars, you will need to create a password for your account by using the "Forgot password" option on the CodeWars login screen.
