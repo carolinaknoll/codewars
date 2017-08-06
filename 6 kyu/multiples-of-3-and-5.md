@@ -2,7 +2,7 @@
 // https://www.codewars.com/kata/multiples-of-3-and-5/solutions/javascript/me/best_practice
 
 
-```
+```javascript
 const solution = (number) => {
   let sum = 0;
 

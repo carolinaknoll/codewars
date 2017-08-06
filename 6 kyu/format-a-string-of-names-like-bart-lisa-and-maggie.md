@@ -2,7 +2,7 @@
 // https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/solutions/javascript/me/best_practice
 
 
-```
+```javascript
 const list = (names) => {
   let nameList = names.map(nameObj => nameObj.name);
   let formatted = '';

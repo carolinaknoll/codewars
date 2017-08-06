@@ -2,7 +2,7 @@
 // https://www.codewars.com/kata/take-a-ten-minute-walk/solutions/javascript/me/best_practice
 
 
-```
+```javascript
 const isValidWalk = (walk) => {
 
   let n = walk.filter( n => n === 'n').length;

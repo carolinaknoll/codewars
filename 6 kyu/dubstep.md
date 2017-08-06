@@ -1,5 +1,8 @@
 # dubstep
-// https://www.codewars.com/kata/dubstep/solutions/javascript/me/best_practice
+[https://www.codewars.com/kata/dubstep/](https://www.codewars.com/kata/dubstep/)
 
-
-
+```javascript
+const songDecoder = (song) => {
+  return song.replace(/(WUB)+/g, ' ').trim();
+}
+```

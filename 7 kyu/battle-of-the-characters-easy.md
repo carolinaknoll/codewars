@@ -1,8 +1,8 @@
 # battle-of-the-characters-easy
-// https://www.codewars.com/kata/battle-of-the-characters-easy/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/battle-of-the-characters-easy/
 
 
-```
+```javascript
 const battle = (x, y) => {
 
   let xScore = 0;
@@ -21,7 +21,7 @@ const battle = (x, y) => {
 
 ```
 
-```
+```javascript
 const battle = (x, y) => {
 
   let score = {};
@@ -45,7 +45,7 @@ const battle = (x, y) => {
 
 ```
 
-```
+```javascript
 const battle = (x, y) => {
 
   let score = {};

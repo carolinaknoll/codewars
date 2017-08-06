@@ -1,8 +1,8 @@
 # a-function-within-a-function
-// https://www.codewars.com/kata/a-function-within-a-function/solutions/javascript/me/best_practice
+// https://www.codewars.com/kata/a-function-within-a-function/
 
 
-```
+```javascript
 const always = x => {
   return let = y => {
     return x;

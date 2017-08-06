@@ -1,8 +1,8 @@
 # beginner-series-number-3-sum-of-numbers
-// https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/solutions/javascript/me/best_practice
+// https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/
 
 
-```
+```javascript
 function GetSum(a, b) {
    if (a === b) {
      return a;
@@ -19,7 +19,7 @@ function GetSum(a, b) {
 }
 ```
 
-```
+```javascript
 function GetSum( a,b ) {
   if (a === b) {
     return a;

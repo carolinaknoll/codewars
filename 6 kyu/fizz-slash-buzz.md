@@ -2,7 +2,7 @@
 // https://www.codewars.com/kata/fizz-slash-buzz/solutions/javascript/me/best_practice
 
 
-```
+```javascript
 const solution = (number) => {
   let a = 0;
   let b = 0;

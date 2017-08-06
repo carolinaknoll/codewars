@@ -1,8 +1,8 @@
 # ghostbusters-whitespace-removal
-// https://www.codewars.com/kata/ghostbusters-whitespace-removal/solutions/javascript/me/best_practice
+// https://www.codewars.com/kata/ghostbusters-whitespace-removal/
 
 
-```
+```javascript
 function ghostBusters(building) {
   if (/\s/g.test(building)) {
     var stringSplit = building.split(" ").join("");

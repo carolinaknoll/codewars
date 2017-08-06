@@ -1,8 +1,8 @@
 # broken-collatz
-// https://www.codewars.com/kata/broken-collatz/solutions/javascript/me/best_practice
+// https://www.codewars.com/kata/broken-collatz/
 
 
-```
+```javascript
 const collatz = (n, count) => {
 
   if (n < 1) {

@@ -2,7 +2,7 @@
 // https://www.codewars.com/kata/rgb-to-hex-conversion/solutions/javascript/me/best_practice
 
 
-```
+```javascript
 const rgb = (r, g, b) => {
 
   let hexArray = [];

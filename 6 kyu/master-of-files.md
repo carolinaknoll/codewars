@@ -2,7 +2,7 @@
 // https://www.codewars.com/kata/master-of-files/solutions/javascript/me/best_practice
 
 
-```
+```javascript
 String.prototype.isAudio = function(){
   return /^[A-Za-z]+\.(?:mp3|flac|alac|aac)$/.test(this);
 };
