@@ -1,5 +1,5 @@
 # thinkful-string-drills-areacode-extractor
-// https://www.codewars.com/kata/thinkful-string-drills-areacode-extractor/
+https://www.codewars.com/kata/thinkful-string-drills-areacode-extractor/
 
 
 ```javascript

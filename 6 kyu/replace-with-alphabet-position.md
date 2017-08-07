@@ -1,5 +1,5 @@
 # replace-with-alphabet-position
-// https://www.codewars.com/kata/replace-with-alphabet-position/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/replace-with-alphabet-position/
 
 
 ```javascript

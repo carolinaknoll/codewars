@@ -1,5 +1,5 @@
 # can-you-keep-a-secret
-// https://www.codewars.com/kata/can-you-keep-a-secret/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/can-you-keep-a-secret/
 
 
 ```javascript

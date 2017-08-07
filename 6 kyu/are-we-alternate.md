@@ -1,5 +1,5 @@
 # are-we-alternate
-// https://www.codewars.com/kata/are-we-alternate/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/are-we-alternate/
 
 
 ```javascript

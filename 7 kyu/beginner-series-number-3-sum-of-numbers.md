@@ -1,5 +1,5 @@
 # beginner-series-number-3-sum-of-numbers
-// https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/
+https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/
 
 
 ```javascript

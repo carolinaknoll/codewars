@@ -1,5 +1,5 @@
 # roman-numerals-encoder
-// https://www.codewars.com/kata/roman-numerals-encoder/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/roman-numerals-encoder/
 
 
 ```

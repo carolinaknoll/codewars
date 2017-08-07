@@ -1,5 +1,5 @@
 # dollars-and-cents
-// https://www.codewars.com/kata/dollars-and-cents/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/dollars-and-cents/
 
 
 ```

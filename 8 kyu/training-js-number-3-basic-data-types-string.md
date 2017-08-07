@@ -1,5 +1,5 @@
 # training-js-number-3-basic-data-types-string
-// https://www.codewars.com/kata/training-js-number-3-basic-data-types-string/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/training-js-number-3-basic-data-types-string/
 
 
 ```

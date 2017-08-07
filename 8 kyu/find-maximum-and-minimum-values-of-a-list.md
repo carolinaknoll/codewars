@@ -1,5 +1,5 @@
 # find-maximum-and-minimum-values-of-a-list
-// https://www.codewars.com/kata/find-maximum-and-minimum-values-of-a-list/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/find-maximum-and-minimum-values-of-a-list/
 
 
 ```

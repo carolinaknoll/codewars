@@ -1,5 +1,5 @@
 # truthy-and-falsy
-// https://www.codewars.com/kata/truthy-and-falsy/
+https://www.codewars.com/kata/truthy-and-falsy/
 
 
 ```javascript

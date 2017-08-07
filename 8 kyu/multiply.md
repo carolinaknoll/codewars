@@ -1,4 +1,4 @@
 # multiply
-// https://www.codewars.com/kata/multiply/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/multiply/
 
 

@@ -1,5 +1,5 @@
 # pre-fizzbuzz-workout-number-2
-// https://www.codewars.com/kata/pre-fizzbuzz-workout-number-2/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/pre-fizzbuzz-workout-number-2/
 
 
 ```

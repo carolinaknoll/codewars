@@ -1,5 +1,5 @@
 # unfinished-loop-bug-fixing-number-1
-// https://www.codewars.com/kata/unfinished-loop-bug-fixing-number-1/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/unfinished-loop-bug-fixing-number-1/
 
 
 ```

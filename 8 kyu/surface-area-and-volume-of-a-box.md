@@ -1,5 +1,5 @@
 # surface-area-and-volume-of-a-box
-// https://www.codewars.com/kata/surface-area-and-volume-of-a-box/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/surface-area-and-volume-of-a-box/
 
 
 ```

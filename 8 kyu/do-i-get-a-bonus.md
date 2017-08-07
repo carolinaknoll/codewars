@@ -1,5 +1,5 @@
 # do-i-get-a-bonus
-// https://www.codewars.com/kata/do-i-get-a-bonus/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/do-i-get-a-bonus/
 
 
 ```

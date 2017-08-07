@@ -1,5 +1,5 @@
 # take-a-ten-minute-walk
-// https://www.codewars.com/kata/take-a-ten-minute-walk/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/take-a-ten-minute-walk/
 
 
 ```javascript

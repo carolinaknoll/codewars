@@ -1,5 +1,5 @@
 # ghostbusters-whitespace-removal
-// https://www.codewars.com/kata/ghostbusters-whitespace-removal/
+https://www.codewars.com/kata/ghostbusters-whitespace-removal/
 
 
 ```javascript

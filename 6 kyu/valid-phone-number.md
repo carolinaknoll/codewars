@@ -1,5 +1,5 @@
 # valid-phone-number
-// https://www.codewars.com/kata/valid-phone-number/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/valid-phone-number/
 
 
 ```javascript

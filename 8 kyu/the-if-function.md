@@ -1,5 +1,5 @@
 # the-if-function
-// https://www.codewars.com/kata/the-if-function/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/the-if-function/
 
 
 ```

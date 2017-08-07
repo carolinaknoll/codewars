@@ -1,5 +1,5 @@
 # highest-and-lowest
-// https://www.codewars.com/kata/highest-and-lowest/
+https://www.codewars.com/kata/highest-and-lowest/
 
 
 ```javascript

@@ -1,5 +1,5 @@
 # how-many-lightsabers-do-you-own
-// https://www.codewars.com/kata/how-many-lightsabers-do-you-own/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/how-many-lightsabers-do-you-own/
 
 
 ```

@@ -1,5 +1,5 @@
 # training-js-number-5-basic-data-types-object
-// https://www.codewars.com/kata/training-js-number-5-basic-data-types-object/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/training-js-number-5-basic-data-types-object/
 
 
 ```

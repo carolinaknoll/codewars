@@ -1,5 +1,5 @@
 # convert-a-number-into-a-roman-numeral-into-javascript
-// https://www.codewars.com/kata/convert-a-number-into-a-roman-numeral-into-javascript/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/convert-a-number-into-a-roman-numeral-into-javascript/
 
 
 ```

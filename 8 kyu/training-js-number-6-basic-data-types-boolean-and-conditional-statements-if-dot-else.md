@@ -1,5 +1,5 @@
 # training-js-number-6-basic-data-types-boolean-and-conditional-statements-if-dot-else
-// https://www.codewars.com/kata/training-js-number-6-basic-data-types-boolean-and-conditional-statements-if-dot-else/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/training-js-number-6-basic-data-types-boolean-and-conditional-statements-if-dot-else/
 
 
 ```

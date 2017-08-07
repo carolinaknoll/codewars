@@ -1,5 +1,5 @@
 # remove-first-and-last-character
-// https://www.codewars.com/kata/remove-first-and-last-character/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/remove-first-and-last-character/
 
 
 ```

@@ -1,5 +1,5 @@
 # training-js-number-4-basic-data-types-array
-// https://www.codewars.com/kata/training-js-number-4-basic-data-types-array/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/training-js-number-4-basic-data-types-array/
 
 
 ```

@@ -1,5 +1,5 @@
 # squash-the-bugs
-// https://www.codewars.com/kata/squash-the-bugs/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/squash-the-bugs/
 
 
 ```

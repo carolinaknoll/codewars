@@ -1,5 +1,5 @@
 # keep-hydrated-1
-// https://www.codewars.com/kata/keep-hydrated-1/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/keep-hydrated-1/
 
 
 ```

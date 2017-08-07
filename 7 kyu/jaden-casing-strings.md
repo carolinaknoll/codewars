@@ -1,5 +1,5 @@
 # jaden-casing-strings
-// https://www.codewars.com/kata/jaden-casing-strings/
+https://www.codewars.com/kata/jaden-casing-strings/
 
 
 ```javascript

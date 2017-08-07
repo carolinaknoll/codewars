@@ -1,5 +1,5 @@
 # master-of-files
-// https://www.codewars.com/kata/master-of-files/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/master-of-files/
 
 
 ```javascript

@@ -1,5 +1,5 @@
 # format-a-string-of-names-like-bart-lisa-and-maggie
-// https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/
 
 
 ```javascript

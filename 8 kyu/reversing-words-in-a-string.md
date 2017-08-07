@@ -1,5 +1,5 @@
 # reversing-words-in-a-string
-// https://www.codewars.com/kata/reversing-words-in-a-string/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/reversing-words-in-a-string/
 
 
 ```

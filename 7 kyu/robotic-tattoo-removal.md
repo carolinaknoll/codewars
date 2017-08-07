@@ -1,5 +1,5 @@
 # robotic-tattoo-removal
-// https://www.codewars.com/kata/robotic-tattoo-removal/
+https://www.codewars.com/kata/robotic-tattoo-removal/
 
 
 ```javascript

@@ -1,5 +1,5 @@
 # a-needle-in-the-haystack
-// https://www.codewars.com/kata/a-needle-in-the-haystack/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/a-needle-in-the-haystack/
 
 
 ```

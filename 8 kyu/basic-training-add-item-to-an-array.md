@@ -1,5 +1,5 @@
 # basic-training-add-item-to-an-array
-// https://www.codewars.com/kata/basic-training-add-item-to-an-array/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/basic-training-add-item-to-an-array/
 
 
 ```

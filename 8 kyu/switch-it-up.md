@@ -1,5 +1,5 @@
 # switch-it-up
-// https://www.codewars.com/kata/switch-it-up/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/switch-it-up/
 
 
 ```

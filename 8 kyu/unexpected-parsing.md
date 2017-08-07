@@ -1,5 +1,5 @@
 # unexpected-parsing
-// https://www.codewars.com/kata/unexpected-parsing/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/unexpected-parsing/
 
 
 ```

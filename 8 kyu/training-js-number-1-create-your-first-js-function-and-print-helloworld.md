@@ -1,5 +1,5 @@
 # training-js-number-1-create-your-first-js-function-and-print-helloworld
-// https://www.codewars.com/kata/training-js-number-1-create-your-first-js-function-and-print-helloworld/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/training-js-number-1-create-your-first-js-function-and-print-helloworld/
 
 
 ```

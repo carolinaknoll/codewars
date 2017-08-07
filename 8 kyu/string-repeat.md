@@ -1,5 +1,5 @@
 # string-repeat
-// https://www.codewars.com/kata/string-repeat/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/string-repeat/
 
 
 ```

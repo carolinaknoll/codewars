@@ -1,5 +1,5 @@
 # broken-collatz
-// https://www.codewars.com/kata/broken-collatz/
+https://www.codewars.com/kata/broken-collatz/
 
 
 ```javascript

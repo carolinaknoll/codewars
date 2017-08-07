@@ -1,5 +1,5 @@
 # are-you-playing-banjo
-// https://www.codewars.com/kata/are-you-playing-banjo/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/are-you-playing-banjo/
 
 
 ```

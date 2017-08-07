@@ -1,5 +1,5 @@
 # training-js-number-10-loop-statement-for
-// https://www.codewars.com/kata/training-js-number-10-loop-statement-for/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/training-js-number-10-loop-statement-for/
 
 
 ```

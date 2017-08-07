@@ -1,5 +1,5 @@
 # chuck-norris-ii-one-punch
-// https://www.codewars.com/kata/chuck-norris-ii-one-punch/
+https://www.codewars.com/kata/chuck-norris-ii-one-punch/
 
 
 ```javascript

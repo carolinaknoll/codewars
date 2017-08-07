@@ -1,5 +1,5 @@
 # shortest-word
-// https://www.codewars.com/kata/shortest-word/
+https://www.codewars.com/kata/shortest-word/
 
 
 ```javascript

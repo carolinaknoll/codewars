@@ -1,5 +1,5 @@
 # fun-with-es6-classes-number-1-people-people-people
-// https://www.codewars.com/kata/fun-with-es6-classes-number-1-people-people-people/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/fun-with-es6-classes-number-1-people-people-people/
 
 
 ```

@@ -1,5 +1,5 @@
 # configure-package-json-for-a-node-application
-// https://www.codewars.com/kata/configure-package-json-for-a-node-application/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/configure-package-json-for-a-node-application/
 
 
 ```

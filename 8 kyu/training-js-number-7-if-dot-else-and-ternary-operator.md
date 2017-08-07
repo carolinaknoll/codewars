@@ -1,5 +1,5 @@
 # training-js-number-7-if-dot-else-and-ternary-operator
-// https://www.codewars.com/kata/training-js-number-7-if-dot-else-and-ternary-operator/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/training-js-number-7-if-dot-else-and-ternary-operator/
 
 
 ```

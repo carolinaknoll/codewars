@@ -1,5 +1,5 @@
 # filter-coffee
-// https://www.codewars.com/kata/filter-coffee/
+https://www.codewars.com/kata/filter-coffee/
 
 
 ```javascript

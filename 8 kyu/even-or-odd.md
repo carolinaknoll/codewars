@@ -1,5 +1,5 @@
 # even-or-odd
-// https://www.codewars.com/kata/even-or-odd/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/even-or-odd/
 
 
 ```

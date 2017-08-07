@@ -1,5 +1,5 @@
 # grasshopper-terminal-game-combat-function-1
-// https://www.codewars.com/kata/grasshopper-terminal-game-combat-function-1/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/grasshopper-terminal-game-combat-function-1/
 
 
 ```

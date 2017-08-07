@@ -1,5 +1,5 @@
 # dont-rely-on-luck
-// https://www.codewars.com/kata/dont-rely-on-luck/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/dont-rely-on-luck/
 
 
 ```javascript

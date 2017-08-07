@@ -1,5 +1,5 @@
 # palindrome-strings
-// https://www.codewars.com/kata/palindrome-strings/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/palindrome-strings/
 
 
 ```

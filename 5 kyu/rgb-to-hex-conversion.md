@@ -1,5 +1,5 @@
 # rgb-to-hex-conversion
-// https://www.codewars.com/kata/rgb-to-hex-conversion/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/rgb-to-hex-conversion/
 
 
 ```javascript

@@ -1,5 +1,5 @@
 # trimming-a-string
-// https://www.codewars.com/kata/trimming-a-string/
+https://www.codewars.com/kata/trimming-a-string/
 
 
 ```javascript

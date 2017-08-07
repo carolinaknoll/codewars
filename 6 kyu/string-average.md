@@ -1,5 +1,5 @@
 # string-average
-// https://www.codewars.com/kata/string-average/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/string-average/
 
 
 ```javascript

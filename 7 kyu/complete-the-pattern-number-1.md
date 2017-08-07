@@ -1,5 +1,5 @@
 # complete-the-pattern-number-1
-// https://www.codewars.com/kata/complete-the-pattern-number-1/
+https://www.codewars.com/kata/complete-the-pattern-number-1/
 
 
 ```javascript

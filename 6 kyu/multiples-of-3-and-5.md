@@ -1,5 +1,5 @@
 # multiples-of-3-and-5
-// https://www.codewars.com/kata/multiples-of-3-and-5/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/multiples-of-3-and-5/
 
 
 ```javascript

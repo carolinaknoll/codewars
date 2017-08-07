@@ -1,5 +1,5 @@
 # get-planet-name-by-id
-// https://www.codewars.com/kata/get-planet-name-by-id/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/get-planet-name-by-id/
 
 
 ```

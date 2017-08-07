@@ -1,5 +1,5 @@
 # enumerable-magic-number-4-true-for-none
-// https://www.codewars.com/kata/enumerable-magic-number-4-true-for-none/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/enumerable-magic-number-4-true-for-none/
 
 
 ```

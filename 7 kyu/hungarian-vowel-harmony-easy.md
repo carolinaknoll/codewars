@@ -1,5 +1,5 @@
 # hungarian-vowel-harmony-easy
-// https://www.codewars.com/kata/hungarian-vowel-harmony-easy/
+https://www.codewars.com/kata/hungarian-vowel-harmony-easy/
 
 
 ```javascript

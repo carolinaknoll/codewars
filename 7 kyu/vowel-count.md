@@ -1,5 +1,5 @@
 # vowel-count
-// https://www.codewars.com/kata/vowel-count/
+https://www.codewars.com/kata/vowel-count/
 
 
 ```javascript

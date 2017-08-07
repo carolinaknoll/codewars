@@ -1,5 +1,5 @@
 # failed-sort-bug-fixing-number-4
-// https://www.codewars.com/kata/failed-sort-bug-fixing-number-4/
+https://www.codewars.com/kata/failed-sort-bug-fixing-number-4/
 
 
 ```javascript

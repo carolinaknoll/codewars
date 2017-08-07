@@ -1,5 +1,5 @@
 # training-js-number-2-basic-data-types-number
-// https://www.codewars.com/kata/training-js-number-2-basic-data-types-number/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/training-js-number-2-basic-data-types-number/
 
 
 ```

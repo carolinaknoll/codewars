@@ -1,5 +1,5 @@
 # grasshopper-basic-function-fixer
-// https://www.codewars.com/kata/grasshopper-basic-function-fixer/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/grasshopper-basic-function-fixer/
 
 
 ```

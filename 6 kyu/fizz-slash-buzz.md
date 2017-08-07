@@ -1,5 +1,5 @@
 # fizz-slash-buzz
-// https://www.codewars.com/kata/fizz-slash-buzz/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/fizz-slash-buzz/
 
 
 ```javascript

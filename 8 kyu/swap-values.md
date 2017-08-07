@@ -1,5 +1,5 @@
 # swap-values
-// https://www.codewars.com/kata/swap-values/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/swap-values/
 
 
 ```

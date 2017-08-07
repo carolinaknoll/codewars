@@ -1,5 +1,5 @@
 # 3-numbers-zero-sum
-// https://www.codewars.com/kata/3-numbers-zero-sum/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/3-numbers-zero-sum/
 
 
 ```

@@ -1,5 +1,5 @@
 # sum-arrays
-// https://www.codewars.com/kata/sum-arrays/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/sum-arrays/
 
 
 ```

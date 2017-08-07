@@ -1,5 +1,5 @@
 # truncate-a-string
-// https://www.codewars.com/kata/truncate-a-string/
+https://www.codewars.com/kata/truncate-a-string/
 
 
 ```javascript

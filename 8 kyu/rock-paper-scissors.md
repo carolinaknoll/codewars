@@ -1,5 +1,5 @@
 # rock-paper-scissors
-// https://www.codewars.com/kata/rock-paper-scissors/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/rock-paper-scissors/
 
 
 ```

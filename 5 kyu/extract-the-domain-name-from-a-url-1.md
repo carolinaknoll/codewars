@@ -1,5 +1,5 @@
 # extract-the-domain-name-from-a-url-1
-// https://www.codewars.com/kata/extract-the-domain-name-from-a-url-1/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/extract-the-domain-name-from-a-url-1/
 
 
 ```javascript

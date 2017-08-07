@@ -1,5 +1,5 @@
 # configure-an-express-server
-// https://www.codewars.com/kata/configure-an-express-server/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/configure-an-express-server/
 
 
 ```

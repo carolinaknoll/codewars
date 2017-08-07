@@ -1,5 +1,5 @@
 # counting-sheep-dot-dot-dot
-// https://www.codewars.com/kata/counting-sheep-dot-dot-dot/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/counting-sheep-dot-dot-dot/
 
 
 ```

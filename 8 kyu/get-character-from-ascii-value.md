@@ -1,5 +1,5 @@
 # get-character-from-ascii-value
-// https://www.codewars.com/kata/get-character-from-ascii-value/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/get-character-from-ascii-value/
 
 
 ```

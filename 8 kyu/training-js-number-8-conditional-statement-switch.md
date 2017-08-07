@@ -1,5 +1,5 @@
 # training-js-number-8-conditional-statement-switch
-// https://www.codewars.com/kata/training-js-number-8-conditional-statement-switch/solutions/javascript/me/best_practice
+https://www.codewars.com/kata/training-js-number-8-conditional-statement-switch/
 
 
 ```
