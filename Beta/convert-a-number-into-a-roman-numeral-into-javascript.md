@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/convert-a-number-into-a-roman-numeral-into-javascript/
 
 
-```
+```javascript
 const romanize = (num) => {
   const lookup = {
     M: 1000,
@@ -33,7 +33,7 @@ const romanize = (num) => {
 
 ```
 
-```
+```javascript
 const romanize = (num) => {
   var lookup = {
     M: 1000,

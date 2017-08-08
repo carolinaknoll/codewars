@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/get-planet-name-by-id/
 
 
-```
+```javascript
 const getPlanetName = id => {
   var name = {
     1: 'Mercury',
@@ -18,7 +18,7 @@ const getPlanetName = id => {
 }
 ```
 
-```
+```javascript
 const getPlanetName = id => {
   var name;
   switch(id){

@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/roman-numerals-encoder/
 
 
-```
+```javascript
 function solution(number){
   var numberList = {
     M: 1000,

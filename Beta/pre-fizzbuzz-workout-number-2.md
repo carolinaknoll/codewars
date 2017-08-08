@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/pre-fizzbuzz-workout-number-2/
 
 
-```
+```javascript
 const preFizz = n => {
   for (var i = 1; i <= n; i++) {
     var result = "";

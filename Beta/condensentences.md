@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/condensentences/
 
 
-```
+```javascript
 const condense = (str) => {
   const words = str.split(' ');
 

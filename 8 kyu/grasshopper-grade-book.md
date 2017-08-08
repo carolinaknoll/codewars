@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/grasshopper-grade-book/
 
 
-```
+```javascript
 const getGrade = (s1, s2, s3) => {
   let grade = (s1 + s2 + s3) / 3;
   return grade >= 90 ? "A" :
@@ -13,7 +13,7 @@ const getGrade = (s1, s2, s3) => {
 
 ```
 
-```
+```javascript
 const getGrade = (s1, s2, s3) => {
   let gradeNumber = (s1 + s2 + s3) / 3;
 

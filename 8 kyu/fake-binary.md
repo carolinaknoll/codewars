@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/fake-binary/
 
 
-```
+```javascript
 const fakeBin = x => {
   let kaboom = x.split('');
   let binary = '';

@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/3-numbers-zero-sum/
 
 
-```
+```javascript
 const sumZero = (integers) => {
 
   for (let i in integers) {
@@ -21,7 +21,7 @@ const sumZero = (integers) => {
 }
 ```
 
-```
+```javascript
 const sumZero = (integers) => {
 
   for (let i = 0; i < integers.length - 2; i++) {
@@ -40,7 +40,7 @@ const sumZero = (integers) => {
 }
 ```
 
-```
+```javascript
 const sumZero = (integers) => {
 
   var matches = [];

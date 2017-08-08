@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/configure-an-express-server/
 
 
-```
+```javascript
 const solution = () => {
   const express = require('express');
   const app = express();
@@ -16,7 +16,7 @@ const solution = () => {
 
 ```
 
-```
+```javascript
 const solution = () => {
   var express = require('express');
   var app = express();

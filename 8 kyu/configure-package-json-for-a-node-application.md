@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/configure-package-json-for-a-node-application/
 
 
-```
+```json
 const configuration = {
   "name": "multiflavored-ice-cream-machine",
   "description": "Big, fancy digital ice cream machine that allows you to choose as many flavors you would like to have on your digital icecream. Each pixel of your screen can have its own original flavor.",
@@ -40,7 +40,7 @@ const configuration = {
 };
 ```
 
-```
+```json
 const configuration = {
   "name": "super-big-fantastic-multiflavored-ice-cream-machine",
   "description": "This is a super big, fancy digital ice cream machine that allows you to choose as many flavors you would like to have on your digital icecream! Each pixel of your screen can have its own original flavor! Enjoy!",

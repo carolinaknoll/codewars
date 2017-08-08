@@ -12,7 +12,7 @@ String.prototype.isImage = function(){
 };
 ```
 
-```
+```javascript
 String.prototype.isAudio = function() {
   return (/^[A-Za-z]+\.(?:mp3|flac|alac|aac)$/).test(this);
 };

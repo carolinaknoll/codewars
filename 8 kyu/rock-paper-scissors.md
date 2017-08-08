@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/rock-paper-scissors/
 
 
-```
+```javascript
 const rps = (p1, p2) => {
   if (p1 !== p2) {
 
@@ -24,7 +24,7 @@ const rps = (p1, p2) => {
 };
 ```
 
-```
+```javascript
 const rps = (p1, p2) => {
   if (p1 !== p2) {
 

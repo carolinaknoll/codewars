@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/training-js-number-10-loop-statement-for/
 
 
-```
+```javascript
 function pickIt(arr){
   var odd = [], even = [];
 
